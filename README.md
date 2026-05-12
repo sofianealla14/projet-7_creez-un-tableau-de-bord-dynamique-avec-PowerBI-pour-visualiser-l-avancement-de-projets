@@ -8,4 +8,4 @@ Objectifs :
 - product Strategy Canvas
 - préparation/nettoyage des données
 - le modèle de données
-- lableau de bord de reporting
+- tableau de bord de reporting
